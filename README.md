@@ -1,2 +1,2 @@
 # Hospital-Management-System-
-Hospital Management System Description 
+Anudip Project 
